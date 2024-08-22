@@ -13,7 +13,7 @@ def calcular(numero1, numero2, operacion):
         case '/':
             # Operación división
             respuesta = numero1 / numero2
-        case '^^':
+        case '^':
             respuesta = numero1 ** numero2    
         case '%':
             respuesta = numero1 % numero2    
